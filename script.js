@@ -3,7 +3,7 @@ const btn = document.querySelector('.btn')
 const cityData = document.createElement ("p");
 const tempData = document.createElement('p');
 const humidity = document.createElement('p');
-const apiKey = "71cf1d17dbabac3721cd739117b14d66";
+const apiKey = '00b6f78018403e8e65a8ab16abf94a2f';
 const weatherData = document.createElement('div')
 document.body.appendChild(cityData);
 document.body.appendChild(tempData);
