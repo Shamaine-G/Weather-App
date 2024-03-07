@@ -1,0 +1,14 @@
+.btn{
+    cursor: pointer;
+
+    align-content: center;
+    align-items: center
+}
+
+body{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
+}
